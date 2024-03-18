@@ -1,13 +1,5 @@
 import { Component } from "react";
-import {
-  Container,
-  Row,
-  Col,
-  Button,
-  Modal,
-  Form,
-  Table,
-} from "react-bootstrap";
+import { Container, Row, Col, Button, Modal, Form, Table } from "react-bootstrap";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
